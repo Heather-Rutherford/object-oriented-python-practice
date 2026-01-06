@@ -1,4 +1,4 @@
-## SE Foundations Module Project: To Do Application
+## 🛠 Hands-On Assignment: Object-Oriented Python Practice
 
 ## Overview
 
